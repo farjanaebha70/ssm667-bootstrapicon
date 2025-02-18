@@ -1,0 +1,39 @@
+h2{
+	color: #E05E30;
+}
+
+.container{
+	overflow:hidden;
+}
+.images{
+	padding:50px 0;
+}
+.img_item{
+	width:25%;
+	float:left;
+	padding: 3px;
+	box-sizing: border-box;
+}
+.img_item img{
+	width:100%
+}
+
+.icon{
+	margin:auto;
+	
+}
+.social{
+	border:1px solid red;
+	text-align: center;
+	font-size: 30px;
+	color: #E05E30;
+}
+
+h2{
+	text-align: center;
+	color: #72787E;
+	margin-bottom: 30px;
+}
+.social i:hover{
+	color: #72787E;
+}
